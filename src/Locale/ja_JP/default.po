@@ -1,0 +1,20 @@
+msgid "I-SAVE"
+msgstr "{0}を保存しました。"
+
+msgid "I-DELETE"
+msgstr "{0}を削除しました。"
+
+msgid "E-SAVE"
+msgstr "{0}の保存に失敗しました。"
+
+msgid "E-DELETE"
+msgstr "{0}の削除に失敗しました。"
+
+msgid "Users"
+msgstr "ユーザーマスタ"
+
+msgid "Roles"
+msgstr "権限マスタ"
+
+msgid "RoleDetails"
+msgstr "権限詳細マスタ"
