@@ -13,6 +13,8 @@
 !/tmp/sessions/empty
 /tmp/tests/*
 !/tmp/tests/empty
+/tmp/cache/acl/*
+!/tmp/cache/acl/empty
 
 /logs/*
 !/logs/empty
